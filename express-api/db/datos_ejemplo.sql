@@ -1,3 +1,5 @@
+--datos para consulata estan ahajo
+
 
 USE corabastos_aux;
 
